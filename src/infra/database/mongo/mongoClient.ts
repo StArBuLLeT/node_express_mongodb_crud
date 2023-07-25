@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/emapta');
+mongoose.connect('mongodb://localhost:27017/test');
 class mongoClient {
   async getAll(model: any) {
     const Model = model;
