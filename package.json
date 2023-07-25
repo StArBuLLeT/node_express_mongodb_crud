@@ -1,7 +1,7 @@
 {
   "name": "emapta",
   "version": "1.0.0",
-  "description": "Kevin Fontanilla Exam",
+  "description": "Kevin Fontanilla",
   "main": "index.js",
   "scripts": {
     "migrate": "cross-env NODE_PATH=. NODE_ENV=local ts-node src/migration.ts",
